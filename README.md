@@ -10,9 +10,9 @@ https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicators-Lime.the
 https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Midnight-Lime.theme.css
 
 ## Gruv Light;
-https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicators-Gruv-Light.theme.css
+https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicator-Gruv-Light.theme.css
 https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Midnight-Gruv-Light.theme.css
 
 ## Gruv Dark;
-https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicators-Gruv-Dark.theme.css
+https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicator-Gruv-Dark.theme.css
 https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Midnight-Gruv-Dark.theme.css
