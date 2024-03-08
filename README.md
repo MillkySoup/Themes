@@ -25,3 +25,9 @@ https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Midnight-Gruv-Light
 https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicator-Gruv-Dark.theme.css
 
 https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Midnight-Gruv-Dark.theme.css
+
+## Sand;
+
+https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Indicators-Sand.theme.css
+
+https://raw.githubusercontent.com/MillkySoup/Themes/main/Ven-Midnight-Sand.theme.css
